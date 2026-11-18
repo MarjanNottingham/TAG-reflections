@@ -28,6 +28,3 @@ In Belbin's terms I was mostly a **Specialist**: I owned one data area and built
 - How R Shiny modules and a shared UI template let several people work on one app
 - That a pull request opened on the deadline counts for very little, because it needs time for review
 - That being present and visible matters as much as the code: the team can only plan around work it can see
-
-## Use of AI tools
-[CHECK BEFORE SUBMITTING: read the module's academic integrity rules on AI. I used Claude, an AI assistant, to help write the Intensity page code and to draft this log and reflection. If AI use has to be declared, keep a line like this and edit it to match what you actually did.]
