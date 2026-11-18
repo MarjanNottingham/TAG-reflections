@@ -7,7 +7,7 @@
 
 | File | What it is |
 |---|---|
-| [weekly/](weekly/) | Weekly contribution logs, one markdown file per week |
+| [week03.md](week03.md) to [week08.md](week08.md) | Weekly contribution logs, one markdown file per week |
 | [reflection.md](reflection.md) | Reflection on how the team worked, linked to Tuckman's model, plus a retrospective |
 | [video-reviews.md](video-reviews.md) | Reviews of the other groups' videos and class findings |
 
