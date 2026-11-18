@@ -5,6 +5,8 @@
 **Team:** TAG Group 4 ([benain-web/TagTeam4](https://github.com/benain-web/TagTeam4))
 **Module:** DATA2007 Team Working Skills
 
+> Submitted late. See my message to Julie of 18 November 2026.
+
 | File | What it is |
 |---|---|
 | [week03.md](week03.md) to [week08.md](week08.md) | Weekly contribution logs, one markdown file per week |
